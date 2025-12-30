@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"C:\\\\Users\\\\zerov\\\\Documents\\\\GitHub\\\\ha-eos-energy-optimizer\" /B)",
+      "Bash(dir \"C:\\\\Users\\\\zerov\\\\Documents\\\\GitHub\\\\ha-eos-energy-optimizer\\\\lovelace\" /B)",
+      "Bash(dir:*)",
+      "Bash(mkdir:*)",
+      "Bash(git mv:*)"
+    ]
+  }
+}
